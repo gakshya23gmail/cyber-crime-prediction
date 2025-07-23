@@ -1,0 +1,9 @@
+Age,Gender,Location,Device,Crime_Type
+25,Male,Urban,Mobile,Phishing
+30,Female,Rural,Laptop,Hacking
+22,Male,Urban,Mobile,Identity Theft
+28,Female,Urban,Desktop,Cyberbullying
+35,Male,Rural,Laptop,Hacking
+40,Female,Urban,Mobile,Phishing
+45,Male,Rural,Desktop,Phishing
+23,Female,Urban,Mobile,Identity Theft
